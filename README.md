@@ -53,3 +53,22 @@ Interfaces, classes, encapsulamento, funções tipadas, arrays, `some()`, `map()
 ## Observações
 
 Os Pokémon ficam armazenados em memória. Os dados são perdidos quando o programa é encerrado.
+
+## Organização do projeto
+
+O projeto utiliza uma estrutura baseada no GitFlow:
+
+- `main`: versão principal do projeto.
+- `develop`: integração das funcionalidades.
+- `feature/documentacao`: melhorias na documentação.
+
+## Testes realizados
+
+Foram realizados testes de:
+
+- Consulta de Pokémon pela PokeAPI.
+- Cadastro de Pokémon no catálogo.
+- Prevenção de cadastros duplicados.
+- Tratamento de Pokémon inexistente.
+- Listagem dos Pokémon cadastrados.
+- Remoção de Pokémon do catálogo.
