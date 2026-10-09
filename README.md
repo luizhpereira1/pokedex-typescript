@@ -72,3 +72,10 @@ Foram realizados testes de:
 - Tratamento de Pokémon inexistente.
 - Listagem dos Pokémon cadastrados.
 - Remoção de Pokémon do catálogo.
+
+## Gerenciamento do projeto
+
+As tarefas foram organizadas utilizando um quadro Kanban
+no GitHub Projects.
+
+Quadro Kanban: COLE_AQUI_O_LINK_DO_SEU_KANBAN
