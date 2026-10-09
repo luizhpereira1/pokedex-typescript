@@ -78,7 +78,7 @@ Foram realizados testes de:
 As tarefas foram organizadas utilizando um quadro Kanban
 no GitHub Projects.
 
-Quadro Kanban: COLE_AQUI_O_LINK_DO_SEU_KANBAN
+Quadro Kanban: https://github.com/users/luizhpereira1/projects/2
 
 ## Resultados dos testes
 
