@@ -79,3 +79,25 @@ As tarefas foram organizadas utilizando um quadro Kanban
 no GitHub Projects.
 
 Quadro Kanban: COLE_AQUI_O_LINK_DO_SEU_KANBAN
+
+## Resultados dos testes
+
+### Busca válida
+Entrada: pikachu
+Resultado: pikachu adicionado ao catálogo.
+
+### Pokémon duplicado
+Entrada: adicionar pikachu novamente
+Resultado: Pokémon já cadastrado.
+
+### Busca inválida
+Entrada: pokemon-inexistente-123
+Resultado: Pokémon não encontrado.
+
+### Remoção
+Entrada: remover Pokémon de ID 25
+Resultado: Pokémon removido.
+
+### Catálogo após remoção
+#4 - charmander - fire
+#1 - bulbasaur - grass, poison
